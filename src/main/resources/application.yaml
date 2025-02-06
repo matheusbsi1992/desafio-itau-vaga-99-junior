@@ -1,0 +1,8 @@
+server:
+  port: 9293
+spring-doc:
+  pathsToMatch:
+    - /**
+swagger-ui:
+  user-root-path: true
+#debug: true
